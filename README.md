@@ -48,6 +48,10 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ###6	MODELO LÓGICO<br>
 ###7	MODELO FÍSICO<br>
+
+        Entrega até este ponto em 25/10/2016
+        
+        
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
@@ -61,19 +65,26 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         b) inclusão das instruções de inserção dos dados nas referidas tabelas
         c) inclusão das instruções para execução de outros procedimentos necessários
 
+
+        Entrega até este ponto em 01/11/2016
+        
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
-####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS<br>
-####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE<br>
-####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS<br>
-####9.4	CONSULTAS QUE USAM OPERADORES LIKE<br>
-####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS<br>
-####9.6	CONSULTAS COM JUNÇÃO<br>
-####9.7	CONSULTAS COM GROUP BY<br>
-####9.8	CONSULTAS COM LEFT E RIGHT JOIN<br>
-####9.9	CONSULTAS COM SELF JOIN E VIEW<br>
-####9.10	SUBCONSULTAS<br>
+####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
+####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
+####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
+####9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
+####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
+####9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
+####9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
+        Entrega até este ponto em 08/11/2016
+        
+####9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
+####9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
+####9.10	SUBCONSULTAS (Mínimo 3) <br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+
+        Entrega final em 22/11/2016
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
