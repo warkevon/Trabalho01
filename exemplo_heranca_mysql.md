@@ -1,6 +1,6 @@
 # Exemplo de herança em Mysql
 
-##Contexto
+## Contexto
 Tabela pai:
 1. Pessoa (representa a tabela pai)
 
@@ -8,6 +8,7 @@ Tabelas filhas:
 1. motorista 
 2. especialista
 
+## Criação de tabelas
 CREATE TABLE pessoa (
 nome varchar(100),
 rg int,
@@ -26,9 +27,7 @@ cod_pessoa int,
 FOREIGN KEY(cod_pessoa) REFERENCES pessoa (cod_pessoa)
 )
 
-
-select * from pessoa inner join especialista
-on (pessoa.cod_pessoa=especialista.cod_pessoa);
+## Inserção de dados
 
 insert into pessoa values ('pedro',1213,1);
 insert into motorista values ('cnhpessoa1',1)
@@ -38,4 +37,11 @@ insert into especialista values ('DBA',2)
 
 insert into pessoa values ('Ana',1545,3);
 insert into especialista values ('Programadora',3)
+
+## Seleção de dados
+
+select * from pessoa inner join especialista
+on (pessoa.cod_pessoa=especialista.cod_pessoa);
+
+
 
