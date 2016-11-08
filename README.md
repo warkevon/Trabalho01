@@ -85,7 +85,7 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
-        Entrega final em 22/11/2016
+        Entrega final em 23/11/2016
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
