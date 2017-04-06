@@ -85,6 +85,6 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
-        Entrega até este ponto em (data a ser definida)
+        Entrega até este ponto em (data a ser definida) b
         
 ### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
