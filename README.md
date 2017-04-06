@@ -4,7 +4,7 @@ Trabalho desenvolvido durante a disciplina de BD
 # Sumário
 
 ### 1.COMPONENTES<br>
-Gabriel Plotegher de Novaes e Sabrina de Barros Leal<br>
+Gabriel Plotegher de Novaes (Gabriel.zikah@hotmail.com) e Sabrina de Barros Leal (Sabriadebarros2011@hotmail.com)<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 No projeto Plantas Medicinais, criaremos um banco de dados onde será armazenado informações sobre o mesmo. O projeto visa ajudar pessoas que estão à procura de plantas específicas. Com o grande mercado de plantas que "curam" crescendo, decidimos criar esse projeto motivados a ajudar pessoas que necessitem de certas plantas para curar ou minimizar enfermidades. <br>
